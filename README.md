@@ -14,7 +14,4 @@ Video:-
 https://www.loom.com/share/e002255e1a6542b6a91532e5ee860369
 
 Screenshots:-
-
-![](screenshots/Desktop Screenshot 2021.08.29 - 13.55.06.89.png)
-![](screenshots/Desktop Screenshot 2021.08.29 - 13.55.11.26.png)
-![](screenshots/Desktop Screenshot 2021.08.29 - 13.55.13.35.png)
+![Alt text](screenshots/Desktop Screenshot 2021.08.29 - 13.55.06.89.png "Optional Title")
