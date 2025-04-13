@@ -1,11 +1,8 @@
-# Mario-Runner
+# Mario-Runner 🌟
 
-## Description
-
-Mario-Runner is a simple yet engaging Super Mario-inspired game developed using the Pygame library. It features basic gameplay elements such as player movement, enemy interactions, coin collection, and a scrolling background. Perfect for beginners interested in learning Python game development!
+Mario-Runner is an engaging Super Mario-inspired game developed using the Pygame library. It features basic gameplay elements such as player movement, enemy interactions, coin collection, and a scrolling background. Perfect for beginners interested in Python game development!
 
 ## Features
-
 - **Player Movement**: Navigate through levels with left, right, and jump controls.
 - **Enemies**: Avoid or defeat enemies that move across the screen.
 - **Coins**: Collect coins to increase your score.
@@ -13,7 +10,7 @@ Mario-Runner is a simple yet engaging Super Mario-inspired game developed using 
 
 ## Installation
 
-Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/). Then, install Pygame by running:
+Ensure Python is installed on your system. You can download it from [python.org](https://www.python.org/downloads/). Install Pygame by running:
 
 ```sh
 pip install pygame
@@ -28,24 +25,23 @@ cd Mario-Runner
 
 ## Usage
 
-To run the game, execute the following command:
+To run the game, execute:
 
 ```python
 python mario.py
 ```
 
-This will start the Mario-Runner game. Use the left and right arrow keys to move and the spacebar to jump.
+Use the left and right arrow keys to move and the spacebar to jump.
 
 ## Configuration (Optional)
 
-No additional configuration is required for this project. All settings are handled within the code.
+No additional configuration is required. All settings are handled within the code.
 
 ## Tests
 
-Unfortunately, automated tests are not available for this simple game due to its nature. However, you can manually test the game by running it as described in the "Usage" section.
+Automated tests are not available for this simple game due to its nature. Manually test the game by running it as described in the "Usage" section.
 
 ## Project Structure
-
 ```
 Mario-Runner/
 ├── mario.py
@@ -64,18 +60,16 @@ Mario-Runner/
 
 ## Contributing
 
-Contributions are welcome! If you find any bugs or have ideas for new features, please open an issue or submit a pull request.
+Contributions are welcome! If you find any bugs or have ideas for new features, open an issue or submit a pull request.
 
 1. Fork the repository.
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+3. Commit changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Built with ❤️ by gag3301v
